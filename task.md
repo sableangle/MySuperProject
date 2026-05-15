@@ -1,0 +1,5 @@
+- [x] 1. 建立專案結構 (HTML, CSS, Assets)
+- [x] 2. 生成冬季奧運主題圖片與圖示 (Hero, Programs, Gallery)
+- [x] 3. 實作 HTML 骨架與內容
+- [x] 4. 實作 CSS 樣式 (色彩、排版、美化)
+- [x] 5. 測試與驗證
